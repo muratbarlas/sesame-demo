@@ -49,8 +49,3 @@ body{
     background-color: bisque;
 }
 
-canvas{
-    display: block;
-    margin-left: auto;
-    margin-right:auto;
-}
